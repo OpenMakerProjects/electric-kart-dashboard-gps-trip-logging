@@ -1,0 +1,21 @@
+{
+  "id": 751,
+  "title": "Electric Kart Dashboard GPS Trip Logging",
+  "repository_slug": "electric-kart-dashboard-gps-trip-logging",
+  "category": "Smart Vehicles",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 12,
+  "connectivity": "BLE",
+  "components": [
+    "OLED display",
+    "camera",
+    "buzzer"
+  ],
+  "scope": "Build a smart vehicles prototype that uses OLED display, camera, buzzer to record routes, speed, and trip summaries. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "GPS Trip Logging demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "firmware/electric-kart-dashboard-gps-trip-logging/electric-kart-dashboard-gps-trip-logging.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
